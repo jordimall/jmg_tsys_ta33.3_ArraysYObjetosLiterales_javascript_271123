@@ -6,7 +6,7 @@ const mostrarReceta = array => {
         receta.ingredientes.map(ingrediente => {
             console.log(`- ${ingrediente}`);
         });
-        console.log('\n')
+        console.log('\n');
     });
 };
 
