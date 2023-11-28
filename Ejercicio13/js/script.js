@@ -2,9 +2,9 @@ const mostrarReceta = receta => {
     console.log(`Nombre de la receta: ${receta.nombre}`);
     console.log(`Tiempo de preparación: ${receta.tiempoPreparacion}`);
     console.log("Ingredientes:");
-    for (let i = 0; i < receta.ingredientes.length; i++) {
-        console.log(`- ${receta.ingredientes[i]}`);
-    }
+    receta.ingredientes.map(ingrediente => {
+        console.log(`- ${ingrediente}`);
+    });
 };
 
 let receta = {
