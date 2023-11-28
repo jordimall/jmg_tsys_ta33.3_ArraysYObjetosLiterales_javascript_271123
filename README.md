@@ -18,14 +18,14 @@ En el siguiente enlace esta el [Ejercicio 8](https://jordimall.github.io/jmg_tsy
 
 En el siguiente enlace esta el [Ejercicio 9](https://jordimall.github.io/jmg_tsys_ta33.3_ArraysYObjetosLiterales_javascript_271123/Ejercicio09/)
 
-En el siguiente enlace esta el [Ejercicio 10](https://jordimall.github.io/jmg_tsys_ta33.3_ArraysYObjetosLiterales_javascript_271123/Ejercicio010/)
+En el siguiente enlace esta el [Ejercicio 10](https://jordimall.github.io/jmg_tsys_ta33.3_ArraysYObjetosLiterales_javascript_271123/Ejercicio10/)
 
-En el siguiente enlace esta el [Ejercicio 11](https://jordimall.github.io/jmg_tsys_ta33.3_ArraysYObjetosLiterales_javascript_271123/Ejercicio011/)
+En el siguiente enlace esta el [Ejercicio 11](https://jordimall.github.io/jmg_tsys_ta33.3_ArraysYObjetosLiterales_javascript_271123/Ejercicio11/)
 
-En el siguiente enlace esta el [Ejercicio 12](https://jordimall.github.io/jmg_tsys_ta33.3_ArraysYObjetosLiterales_javascript_271123/Ejercicio012/)
+En el siguiente enlace esta el [Ejercicio 12](https://jordimall.github.io/jmg_tsys_ta33.3_ArraysYObjetosLiterales_javascript_271123/Ejercicio12/)
 
-En el siguiente enlace esta el [Ejercicio 13](https://jordimall.github.io/jmg_tsys_ta33.3_ArraysYObjetosLiterales_javascript_271123/Ejercicio013/)
+En el siguiente enlace esta el [Ejercicio 13](https://jordimall.github.io/jmg_tsys_ta33.3_ArraysYObjetosLiterales_javascript_271123/Ejercicio13/)
 
-En el siguiente enlace esta el [Ejercicio 14](https://jordimall.github.io/jmg_tsys_ta33.3_ArraysYObjetosLiterales_javascript_271123/Ejercicio014/)
+En el siguiente enlace esta el [Ejercicio 14](https://jordimall.github.io/jmg_tsys_ta33.3_ArraysYObjetosLiterales_javascript_271123/Ejercicio14/)
 
-En el siguiente enlace esta el [Ejercicio 15](https://jordimall.github.io/jmg_tsys_ta33.3_ArraysYObjetosLiterales_javascript_271123/Ejercicio015/)
+En el siguiente enlace esta el [Ejercicio 15](https://jordimall.github.io/jmg_tsys_ta33.3_ArraysYObjetosLiterales_javascript_271123/Ejercicio15/)
